@@ -8,7 +8,7 @@ The goal of this repository is:
 
 ## What is HPSurv system?
 A histopathomics-based prediction system for individualized overall survival (OS) estimation and ACT optimization. The HPSurv system was developed and tested on 1,020 patients across five clinical centers. It integrated expert annotations, a pathology foundation model, and Transformer architectures to enable fine-grained histological classification, quantification of tumor spatial heterogeneity, OS prediction, and identification of patients most likely to benefit from ACT.
-![orig](https://github.com/StandWisdom/PyHistoPahtomics-Toolkit/blob/main/figure/Fig.1.tif)<br>
+![orig](https://github.com/StandWisdom/PyHistoPahtomics-Toolkit/blob/main/figure/Fig.1.png)<br>
 
 ### Installation
 1. [python3 with anaconda](https://www.continuum.io/downloads)
